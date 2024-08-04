@@ -21,7 +21,7 @@
     "mongodb": "^6.2.0",
     "mongoose": "^8.0.1",
     "next": "14.0.2",
-    "next-auth": "^4.24.5",
+    "next-auth": "^4.24.7",
     "object-copy": "^1.0.0",
     "plain-object-clone": "^2.0.0",
     "react": "^18",
